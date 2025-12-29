@@ -1,1 +1,2 @@
-const URI = "mongodb+srv://coderz:1W3c07aCV51FrHQc@namastenode.evruztc.mongodb.net/"
+require('dotenv').config();
+
